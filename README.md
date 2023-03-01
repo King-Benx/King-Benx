@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
 
-Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and Typescript stack. I am currently based in Kampala, Uganda and I highly prefer remote jobs. If I sound good for your team, let's talk.
+Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and TypeScript stack. I am currently based in Kampala, Uganda and I highly prefer remote jobs. If I seem like a good fit for you or your team, let's talk.
 
 <p align="left">
   <a href="https://github.com/King-Benx?tab=followers">
