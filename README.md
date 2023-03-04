@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🖥️ STATUS:** ```AVAILABLE FOR HIRE & COLLABORATION``` 
 
-**🔭 Current Interests:** **`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
+**🔭 Interested in:** **`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
 
 ## About me
 
