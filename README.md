@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 
 # 🥷 Benard Asiimwe Bataringaya
 
-**`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
+✉️ benard.asiimwe.bataringaya@gmail.com
+☎️ +256788920178
+[🌐 LinkedIn: Benard Asiimwe Bataringaya](https://www.linkedin.com/in/benard-asiimwe-bataringaya-4b673672/)
+
+**🖥️ STATUS:** ```AVAILABLE FOR HIRE & COLLABORATION``` 
+
+**🔭 Current Interests:** **`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
+
+## About me
 
 Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and TypeScript stack. I am currently based in Kampala, Uganda and I highly prefer remote jobs. If I seem like a good fit for you or your team, let's talk.
 
