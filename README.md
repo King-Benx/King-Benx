@@ -16,24 +16,29 @@ Here are some ideas to get you started:
 
 # 🥷 Benard Asiimwe Bataringaya
 
-✉️ benard.asiimwe.bataringaya@gmail.com
-☎️ +256788920178
-[🌐 LinkedIn: Benard Asiimwe Bataringaya](https://www.linkedin.com/in/benard-asiimwe-bataringaya-4b673672/)
+`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`
 
-**🖥️ STATUS:** ```AVAILABLE FOR HIRE & COLLABORATION``` 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=King-Benx" alt="King-Benx" /></a> </p>
 
-**🔭 Interested in:** **`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`**
 
 ## About me
 
-Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and TypeScript stack. I am currently based in Kampala, Uganda and I highly prefer remote jobs. If I seem like a good fit for you or your team, let's talk.
+Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and TypeScript stack.
 
 <p align="left">
   <a href="https://github.com/King-Benx?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/King-Benx?color=236ad3&labelColor=1335ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-#
+- 🔭 I’m currently working on **various JavaScript and Golang projects**
+
+- 🌱 I’m currently learning **Ruby, DevOps and Algos**
+
+- 💬 Ask me about **MongoDB, Express, React, Node, TypeScript, GraphQL, Apollo, Go, Nest and Nextjs, Software Architecture and Development**
+
+- 📫 How to reach me **benard.asiimwe.bataringaya@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/benard-asiimwe-bataringaya-4b673672/](https://www.linkedin.com/in/benard-asiimwe-bataringaya-4b673672/)
 
 ## 💼 Languages and tools
 
