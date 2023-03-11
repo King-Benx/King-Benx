@@ -16,23 +16,27 @@ Here are some ideas to get you started:
 
 # 🥷 Benard Asiimwe Bataringaya
 
-`FullStack Software Engineer | Mentor | Quality Assurance Engineer | Project Manager`
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=King-Benx" alt="King-Benx" /></a> </p>
 
 
 ## About me
 
-Hi 👋 I am Ben, I am a Senior Software Engineer focusing mainly on the MERN, GraphQL, Golang, and TypeScript stack.
+Hi 👋 I am Ben, I am a FullStack Senior Software Engineer.
 
 <p align="left">
   <a href="https://github.com/King-Benx?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/King-Benx?color=236ad3&labelColor=1335ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+- 🛠️ Tech Stack: **MongoDb, Express, React Node, TypeScript, GraphQL, Go**
+
+- 🤝 I'm **open to hire**
+
+- 🌍 Currently based in **Uganda**.
+
 - 🔭 I’m currently working on **various JavaScript and Golang projects**
 
-- 🌱 I’m currently learning **Ruby, DevOps and Algos**
+- 🌱 I’m currently learning **Ruby, DevOps and Algos at Microverse**
 
 - 💬 Ask me about **MongoDB, Express, React, Node, TypeScript, GraphQL, Apollo, Go, Nest and Nextjs, Software Architecture and Development**
 
