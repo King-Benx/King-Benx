@@ -1,4 +1,6 @@
-# 🥷Hi 👋 I am Benard A.B., a [FullStack Developer](https://king-benx.github.io/my-portfolio/).
+# 🥷Hi 👋 I am Ben.
+
+``` Full-Stack Engineer | Mentor | Quality Assurance Engineer | Project Manager ```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=King-Benx" alt="King-Benx" /></a> </p>
 
@@ -16,7 +18,7 @@
 
 - 🔭 I’m currently working on **various JavaScript and Golang projects**
 
-- 🌱 I’m currently learning **Ruby, DevOps and Algos at Microverse**
+- 🌱 I’m currently learning **Ruby, DevOps and Algos**
 
 - 💬 Ask me about **MongoDB, Express, React, Node, TypeScript, GraphQL, Apollo, Go, Nest and Nextjs, Software Architecture and Development**
 
