@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on **various JavaScript and Golang projects**
 
-- 🌱 I’m currently learning **Ruby, DevOps and Algos**
-
 - 💬 Ask me about **MongoDB, Express, React, Node, TypeScript, GraphQL, Apollo, Go, Nest and Nextjs, Software Architecture and Development**
 
 - 📫 How to reach me **benard.asiimwe.bataringaya@gmail.com**
